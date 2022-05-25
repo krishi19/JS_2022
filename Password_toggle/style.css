@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .wrapper {
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 12% auto;
+    padding: 50px 0;
+    color: #fff;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.5);
+  }
+  #h1 {
+    text-align: center;
+  }
+  #userNameInput {
+    padding-left: 30px;
+    border-bottom: 1px solid #fff;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  }
+  #userNameInput {
+    border: none;
+    border-radius: 5px;
+    outline: none;
+  }
+  input {
+    position: relative;
+    margin: 60px;
+    width: 70%;
+  }
+  #eyeToggle {
+    position: relative;
+    top: -85px;
+    left: 410px;
+    color: #2196f3;
+  }
+  #forgot {
+    margin: 60px;
+  }
+  #next {
+    margin-left: 120px;
+    padding: 5px 25px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+  }
+  
